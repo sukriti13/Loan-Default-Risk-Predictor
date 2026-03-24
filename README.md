@@ -1,4 +1,3 @@
-# AI
 Loan Default Risk Predictor using Python and streamlit
 <img width="885" height="910" alt="image" src="https://github.com/user-attachments/assets/741271f8-c8c5-4b8b-89a6-6c2cf06c0ec7" />
 <img width="875" height="930" alt="image" src="https://github.com/user-attachments/assets/efe24909-098f-4b53-bdd9-d9b9638f3e45" />
